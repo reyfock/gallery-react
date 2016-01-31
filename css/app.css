@@ -1,0 +1,49 @@
+#close_modal_button {
+    position:absolute;
+    top:0;
+    right:0;
+}
+
+/* button preview GalleryModal.react */
+#button_prev {
+    display: none;
+}
+
+#top_title {
+    margin:0;
+    padding:0;
+}
+.center_flow {
+    text-align:center;
+}
+
+#gallery_carousel_content {
+    text-align:center;
+    align:center;
+}
+#gallery_carousel_box {
+    width:800px;
+    display:block;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+.slide img{
+    width:800px; height:500px;
+}
+
+#gallery-table-id {
+    width:900px;
+}
+#gallery-cart-id {
+    padding:5px;
+    border:1px solid #7f8c8d;
+    width:210px;
+    position:absolute;
+    right:10px;
+    top:0;
+    box-shadow: 5px 5px 0 #7f8c8d;
+}
+.modal_button_cls {
+    background-color: silver;
+    border: 1px solid gray;
+}
